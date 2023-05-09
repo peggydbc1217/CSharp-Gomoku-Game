@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\game_five_chess\game_five_chess\bin\Debug\game_five_chess.exe.config
+C:\Users\Administrator\source\repos\game_five_chess\game_five_chess\bin\Debug\game_five_chess.exe
+C:\Users\Administrator\source\repos\game_five_chess\game_five_chess\bin\Debug\game_five_chess.pdb
+C:\Users\Administrator\source\repos\game_five_chess\game_five_chess\obj\Debug\game_five_chess.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\game_five_chess\game_five_chess\obj\Debug\game_five_chess.d.resources
+C:\Users\Administrator\source\repos\game_five_chess\game_five_chess\obj\Debug\game_five_chess.Properties.Resources.resources
+C:\Users\Administrator\source\repos\game_five_chess\game_five_chess\obj\Debug\game_five_chess.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\game_five_chess\game_five_chess\obj\Debug\game_five_chess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\game_five_chess\game_five_chess\obj\Debug\game_five_chess.exe
+C:\Users\Administrator\source\repos\game_five_chess\game_five_chess\obj\Debug\game_five_chess.pdb
